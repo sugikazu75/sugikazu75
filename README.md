@@ -1,1 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugikazu75&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sugikazu75&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sugikazu75&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sugikazu75&theme=nord_bright&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sugikazu75&theme=nord_bright&utcOffset=9)
