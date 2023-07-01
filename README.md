@@ -1,1 +1,1 @@
-[![sugikazu75's stats](https://github-readme-stats.vercel.app/api?username=sugikazu75&count_private=true&show_icons=true)](https://github.com/sugikazu75)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sugikazu75&theme=nord_bright)
